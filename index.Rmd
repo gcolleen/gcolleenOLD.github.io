@@ -1,0 +1,22 @@
+---
+title: "My great website"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Welcome to my dark twisted mind
+
+## It's really dark and twisted
+
+
+## Links
+* [Google](https://google.com)
+
+
+
+
+
+* [Next page](about.html)
